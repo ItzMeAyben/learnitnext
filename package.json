@@ -1,0 +1,16 @@
+{
+  "name": "learnit",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.101.4",
+    "@tanstack/react-table": "^8.21.3",
+    "next": "^16.3.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
